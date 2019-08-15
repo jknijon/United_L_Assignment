@@ -7,5 +7,6 @@ Blue
 Yellow
 Violet
 Magenta
+Indigo
 
 This is my poem
