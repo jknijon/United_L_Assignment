@@ -6,5 +6,6 @@ Green
 Blue
 Yellow
 Violet
+Magenta
 
 This is my poem
